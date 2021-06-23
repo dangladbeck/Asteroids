@@ -1,2 +1,2 @@
 # Asteroids
-Clone do jogo Asteroids.
+Clone do jogo Asteroids, feito em Javascript.
